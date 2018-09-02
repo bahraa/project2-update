@@ -10,7 +10,8 @@ Then install `json-server` package globally
 
 Then start the RESTful API
 
-`json-server --watch ./db.json`
+`--
+`
 
 Where the `db.json` is included with project files.
 

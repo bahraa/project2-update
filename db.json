@@ -1,32 +1,97 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "lorem",
-            "body": "lorem ipsum",
-            "userId": 1,
-            "categoryId": 1
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1,
-            "userId": 1
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "name": "typicode",
-            "email": "user@example.com"
-        }
-    ],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Uncatagorized"
-        }
-    ]
+  "posts": [],
+  "comments": [],
+  "users": [
+    {
+      "name": "bahra",
+      "email": "jska@hbdh",
+      "id": 4
+    },
+    {
+      "name": "fayza",
+      "email": "fayza@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "nooha",
+      "email": "nooha@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "bahra",
+      "email": "bahra@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "bahra",
+      "email": "bahra@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "bahra",
+      "email": "bahra@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "bahra",
+      "email": "bahra@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "bahra",
+      "email": "bahra@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "asia",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "asia",
+      "email": "asia@gmail.com",
+      "id": 20
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Uncatagorized"
+    }
+  ]
 }
